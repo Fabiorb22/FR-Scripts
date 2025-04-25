@@ -12,7 +12,7 @@ Pointfinger es un recurso que permite a los jugadores apuntar con el dedo mientr
    - Una vez descargado el archivo ZIP, extrae su contenido.
    - Coloca la carpeta extraída (que debería llamarse `fr_pointfinger-main`) en la carpeta `resources` de tu servidor **FiveM**.
 
-#### Recomendaciones
+### Recomendaciones
 
 1. **Renombrar la carpeta** (opcional pero recomendado):
    - Cambia el nombre de la carpeta extraída a `fr_pointfinger` para mantener todo organizado.
