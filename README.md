@@ -4,8 +4,7 @@ Pointfinger es un recurso que permite a los jugadores apuntar con el dedo mientr
 ### Instalación
 
 1. **Descargar el Recurso**:
-   - Ve al repositorio de **fr_pointfinger** en GitHub:
-     [fr_pointfinger en GitHub](https://github.com/Fabiorb22/fr_pointfinger)
+   - Ve al repositorio de **fr_pointfinger** en GitHub: (https://github.com/Fabiorb22/fr_pointfinger)
    - Haz clic en el botón **"Code"** y luego selecciona **"Download ZIP"**.
 
 2. **Extraer el archivo ZIP**:
